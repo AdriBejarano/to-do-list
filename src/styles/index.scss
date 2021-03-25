@@ -1,10 +1,12 @@
 @import "~bootstrap/scss/bootstrap.scss";
-@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
 
 .container{
-    background-color: #80A62E;
-    font-family: 'Luckiest Guy', cursive;
-    padding-top: 40px;
+    background-color: rgb(166, 46, 112);
+    font-family: 'Lora', serif;
+    //padding-top: 40px;
+    
+
 };
 #exampleInputEmail1{
     margin-bottom: 200px;
@@ -13,12 +15,18 @@
 };
 #titulo{
 margin-left:5px ;
-color: #643073;
+color: #1b1b17;
 
 };
 .list-group{
     margin-top:1px;
     color: #A80521;
+}
+
+.imagen{
+    margin-right: 20px;
+    height: 10px;
+    width: 10px;
 }
 
  

@@ -9,12 +9,12 @@ export function Home() {
 			<div className="d-flex justify-content-center">
 				<div className="row">
 					<div className="col-6">
-						<h1 id="titulo">LISTA DE TAREAS</h1>
+						<h1 id="titulo">To Do List</h1>
 						<Myinput />
 					</div>
-					<div className="col-6">
+					<div className="Imagen col-5">
 						{/* CAMBIAR URL */}
-						<img src="http://www.marketingsignals.com/wp-content/uploads/2017/07/to-do-list-monsters.gif" />
+						<img src="https://i.pinimg.com/originals/a1/41/08/a14108b5e5cd6aaa49801f3cd726adbd.gif" />
 					</div>
 				</div>
 			</div>
